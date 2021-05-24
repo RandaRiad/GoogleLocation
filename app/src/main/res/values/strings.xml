@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourLocation</string>
+    <string name="title_activity_map">Map</string>
+    <string name="google_place">AIzaSyC5ziwcIVlhGs9i5DYdCE_5w0lfuzOn4vg</string>
+</resources>
